@@ -1,0 +1,6 @@
+/text_files
+/text_files/*
+/rules
+/rules/*
+*.ipynb
+*_aiGen.py
